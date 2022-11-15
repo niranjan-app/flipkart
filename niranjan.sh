@@ -1,2 +1,0 @@
-niranjan shell script
-
